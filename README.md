@@ -8,7 +8,7 @@
 
 *models* 文件夹中分数据集保存了毕设使用的 **ComRecCNN** 和待测网络的参数模型。
 
-*utils* 文件夹中，*attacks* 文件夹保存了实验用多种对抗样本攻击方法实现，*model* 文件夹保存了 **ComRecCNN **、**SimpleNN **和 **ResNet** 的网络结构代码，*utils* 文件夹保存了一些调用方法，比如数据载入、度量和可视化。
+*utils* 文件夹中，*attacks* 文件夹保存了实验用多种对抗样本攻击方法实现，*model* 文件夹保存了 **ComRecCNN**、**SimpleNN** 和 **ResNet** 的网络结构代码，*utils* 文件夹保存了一些调用方法，比如数据载入、度量和可视化。
 
 *attack_test.py* 是测试代码。
 
@@ -16,7 +16,7 @@
 
 *victim_model_train.py* 是待测网络的训练代码。
 
-*demo.py* 是一个使用 **FGSM **的展示小样。
+*demo.py* 是一个使用 **FGSM** 的展示小样。
 
 ### 环境安装并运行 demo
 
